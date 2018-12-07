@@ -1,11 +1,12 @@
-div{
-   background-color: #e3e3e3;
+div {
+   background-color: cyan;
    text-align: center;
 }
- 
+ wrap {
+   font-size: 10;
+ }
 
 blockquote {
-  border: 1px solid black;
   height: 50px;
   width:700px;
   margin: auto; 
